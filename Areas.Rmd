@@ -1,0 +1,15 @@
+---
+title: "Areas"
+author: "Paula Sasot Garcia"
+output: html_document
+date: "2026-02-06"
+---
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+r<-0.5
+Area <-pi*r^2
+```
+
